@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "token": "OTU3NjI5NzY0NTY1MzY0NzM2.YkBkNw.YWlLitZIb1g_XbyqIG2asZ4lnaA",
+        "id": "957629764565364736",
+        "secret": "3qVqH4eQ88MHcSyAH6IqKP_J5qEPiimu"
+    },
+    "website": {
+        "port": "8080",
+        "domain": "http://localhost:8080",
+        "callback": "http://localhost:8080/callback"
+    }
+}
